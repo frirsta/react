@@ -1,5 +1,5 @@
 import './App.css';
-import SideBar from './components/SideBar';
+import LikeCounter from './components/LikeCounter';
 
 
 function App() {
@@ -10,7 +10,8 @@ function App() {
 {/* <HooksCounter name="fri"/> */}
 {/* <FunctionalGreeting /> */}
 {/* <FunctionalGreetingProps greeting="Nice to meet you!"/> */}
-<SideBar />
+{/* <SideBar /> */}
+<LikeCounter />
     </div>
   );
 }
